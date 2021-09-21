@@ -1,0 +1,43 @@
+body,
+html {
+  margin: 0;
+  background-color: #332424;
+  background-image: url("donate_img.webp");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 100%;
+}
+
+header {
+  padding: 0px 20px;
+  height: 50px;
+}
+
+.inner-heading {
+  background-color: #513923a3;
+  color: black;
+  position: relative;
+  top: 10px;
+  font-size: 5vmax;
+  font-family: 'Righteous', cursive;
+  text-align: center;
+  border-radius: 5px;
+  padding: 1px;
+}
+section {
+  padding: 50px 0px;
+  
+}
+
+.slogan {
+  font-size: 14vh;
+  font-family: "Rajdhani", sans-serif;
+  color: rgb(230 236 149 / 61%);
+  text-align: center;
+}
+
+.button {
+  display: flex;
+  justify-content: center;
+}
